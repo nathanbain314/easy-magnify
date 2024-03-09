@@ -34,6 +34,7 @@
   "module": "dist/es/ReactImageMagnify.js",
   "files": [
     "dist",
+    "index.d.ts",
     "LICENCE"
   ],
   "scripts": {
